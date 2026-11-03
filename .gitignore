@@ -1,0 +1,27 @@
+*.pyc
+output/
+
+# Trained models are large; recreate them with the steps in the README
+trained_model/
+checkpoint-*/
+runs/
+
+# Python
+__pycache__/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

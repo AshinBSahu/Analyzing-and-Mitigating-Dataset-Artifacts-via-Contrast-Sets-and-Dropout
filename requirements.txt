@@ -1,0 +1,15 @@
+# Starter-code dependencies
+accelerate
+datasets
+evaluate
+torch
+tqdm
+# Pinned to the version recorded in the saved model configs (transformers_version 4.45.2)
+transformers==4.45.2
+
+# Added for contrast-set generation, cartography analysis and plots
+nltk
+numpy
+pandas
+matplotlib
+seaborn

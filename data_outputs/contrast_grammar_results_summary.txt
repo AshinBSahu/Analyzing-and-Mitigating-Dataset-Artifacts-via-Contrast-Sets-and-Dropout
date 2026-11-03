@@ -1,0 +1,8 @@
+
+===== GRAMMATICALITY STATS BY EDIT TYPE =====
+                 total  correct  incorrect  %_correct  %_incorrect
+edit_type                                                         
+lexical_antonym   1114      613        501       55.0         45.0
+lexical_synonym   1757      902        855       51.3         48.7
+negation          1834     1755         79       95.7          4.3
+none              5137     4974        163       96.8          3.2

@@ -1,0 +1,7 @@
+=== Accuracy by Edit Type (Original vs Contrast) ===
+dataset          Contrast (Edited)  original
+edit_type                                   
+lexical_antonym           0.399461  0.892280
+lexical_synonym           0.752419  0.894138
+negation                  0.659760  0.894766
+none                      0.891182  0.891182
